@@ -1,0 +1,9 @@
+﻿FACTORY PATTERN
+
+- Định nghĩa 1 lớp Interface hoặc Abstract cho việc tạo 1 đối tượng
+  nhưng cho phép subclass quyết định lớp nào mới là lớp được khởi tạo.
+
+- Cách sử dụng:
+	+ Khi một lớp không biết lớp con nào được tạo ra
+	+ KHI một lớp muốn chỉ định các đối tượng sẽ được tạo ra của lớp con.
+	
